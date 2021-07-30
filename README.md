@@ -50,3 +50,8 @@
 - Ciencia de datos
 - Algoritmia
 - Docencia
+
+
+Recuerda:
+
+## `Tell your friends about this.`
