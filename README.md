@@ -3,8 +3,6 @@
 
 `Soy un humano tratando de mejorar su código` Me gusta mucho enseñar, aunque no soy docente de tiempo completo, también me gusta amenazar a mis alumnos, por ejemplo ayer amenacé a varios con no usar puntoy coma  (;)  en sentencias Java. 
 
-- Trabajo remoto en una empresa como Analista de integración (trato de que se comuniquen sistemas de información sin importar su plataforma o lenguaje). 
-- Trabajo como freelance en algunas plataformas para freelance. 
 
 ## Herramientas, lenguajes, frameworks
 
