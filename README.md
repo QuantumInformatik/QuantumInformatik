@@ -18,7 +18,6 @@
   
 - Desarrollo desktop:
 
-  <img alt="C++" src="https://img.shields.io/badge/C++%20-%23193634.svg?&style=flat&logo=c%2B%2B&logoColor=blue"  height="35"/> &nbsp; 
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"  height="35"/> &nbsp; 
   <img alt="C#" src="https://img.shields.io/badge/C%20Sharp%20-%2368FAF1.svg?&style=flat&logo=csharp&logoColor=blue"  height="35"/> &nbsp;
   <img alt="Electron Js" src="https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=whit"  height="35"/> &nbsp;
