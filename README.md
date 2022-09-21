@@ -4,7 +4,7 @@
 `I am a human striving to improve his code` I really like teaching, but I am not a full time teacher.  
 
 
-## Languagues, frameworks & tools
+## Languages, frameworks & tools
 
 - Web development:
 
@@ -43,7 +43,7 @@
 
 - DevOps
 - Cloud computing
-- Electronic
+- Electronics
 - Algorithm
 - Teaching
 
