@@ -27,6 +27,7 @@
    <img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2336405B.svg?&style=flat&logo=flutter&logoColor=blue"  height="35"/> &nbsp;
 
 - Others
+
    <img alt="Rust" src="https://img.shields.io/badge/Rust%20-%23FF5733.svg?&style=flat&logo=rust&logoColor=black"  height="35"/> &nbsp;
    <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white"  height="35"/> &nbsp; 
    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white" height="35" />&nbsp;
