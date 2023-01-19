@@ -3,6 +3,7 @@
 
 `I am a human striving to improve his code` I really like teaching, but I am not a full time teacher.  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=berracode&show_icons=true&theme=dark)
 
 ## Languages, frameworks & tools
 
