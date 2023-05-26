@@ -9,12 +9,15 @@
 
 - Web development:
 
+  <img alt="Node js" src="https://img.shields.io/badge/NodeJs%20-%232A2B2E.svg?&style=flat&logo=nodedotjs&logoColor=green"  height="35"/> &nbsp;
+  <img alt="React" src="https://img.shields.io/badge/React-444950?style=flat&logo=react&logoColor=149eca"  height="35"/> &nbsp;
+  <img alt="React" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"  height="35"/> &nbsp;
+  <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=flat&logo=angular&logoColor=white"  height="35"/> &nbsp;
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"  height="35"/> &nbsp; 
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?&style=flat&logo=springboot&logoColor=green"  height="35"/> &nbsp;   
-  <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=flat&logo=PHP&logoColor=white"  height="35"/> &nbsp;
-  <img alt="Node js" src="https://img.shields.io/badge/NodeJs%20-%232A2B2E.svg?&style=flat&logo=nodedotjs&logoColor=green"  height="35"/> &nbsp;
   <img alt="Rust" src="https://img.shields.io/badge/Rust%20-%23FF5733.svg?&style=flat&logo=rust&logoColor=black"  height="35"/> &nbsp;
-  <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=flat&logo=angular&logoColor=white"  height="35"/> &nbsp;
+  <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=flat&logo=PHP&logoColor=white"  height="35"/> &nbsp;
+
   
 - Desktop development:
 
